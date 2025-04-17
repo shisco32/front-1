@@ -33,6 +33,9 @@ h3 {
 .menu{
     border-style: double;
     border-color: rgb(37, 37, 37);
-    background-color: beige;
+    background-color: rgb(240, 173, 173);
     font-style: italic;
+}
+.custom-bg{
+    background-color: #f3e9d4;
 }
